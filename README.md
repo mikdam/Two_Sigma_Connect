@@ -3,7 +3,7 @@ This is a machine learning solution I developed for a Kaggle competetion [Two Si
 
 The dataset can be downloaded from [here](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data).
 
-Check out [my Kaggle profile](www.kaggle.com/mikdam/competition/) for this submission score and ranking.
+Check out [my Kaggle profile](www.kaggle.com/mikdam/competitions/) for this submission score and ranking.
 
 ### Feature Engineering:
 
