@@ -25,3 +25,6 @@ As the dataset is imbalanced, a number of techniques for over and under-sample h
 
 ### Stacking models
 A stacked model of three layers has been built. The  first layer uses Random Forest to combine the prdiction probabilities of a number of models. The classification problem has been converted to binary classification problems using One-vs-the-Rest (XGB_Bin_OvR) and One-vs-One (XGB_Bin_OvO) strategies. One model used the problem in its multiclass form (XGB_Multi). Various combination of oversampling and undersampling techniques with the three stacked models above.
+
+#### My Kaggle profile
+www.kaggle.com/mikdam
