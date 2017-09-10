@@ -3,6 +3,8 @@ This is a machine learning solution I developed for a Kaggle competetion [Two Si
 
 The dataset can be downloaded from [here](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data).
 
+Check out [my Kaggle profile](www.kaggle.com/mikdam/competition/) for this submission score and ranking.
+
 ### Feature Engineering:
 
 * Clean the text of display address feature by removing noise and normalising the addresses list, then encode it using emperical Bayesian statistical method to code the feature as probability of the target variable.
